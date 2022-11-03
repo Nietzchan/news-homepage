@@ -206,7 +206,7 @@ body header nav li a:hover {
   }
   body header nav li a:hover {
     background: none;
-    color: hsl(35deg, 77%, 62%);
+    color: hsl(5, 85%, 63%);
   }
 }
 @media (min-width: 1090px) {
